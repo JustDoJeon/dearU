@@ -1,0 +1,147 @@
+[INFO ] 18:04:14.857 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 18:04:14.869 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 18:04:18.832 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 25884 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 18:04:18.834 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 18:04:20.253 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:04:20.263 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:04:20.264 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:04:20.264 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 18:04:20.534 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 18:04:20.544 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:04:20.545 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1666 ms
+[INFO ] 18:04:20.627 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 18:04:20.998 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 18:04:20.998 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 18:04:21.575 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:04:21.604 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:04:21.613 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.378 seconds (JVM running for 3.89)
+[INFO ] 18:04:58.387 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 18:04:58.388 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 18:04:58.389 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 18:17:06.528 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 18:17:06.537 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 18:17:13.304 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 35188 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 18:17:13.306 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 18:17:14.652 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:17:14.667 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:17:14.668 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:17:14.668 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 18:17:14.948 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 18:17:14.959 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:17:14.959 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1597 ms
+[INFO ] 18:17:15.039 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 18:17:15.404 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 18:17:15.404 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 18:17:15.928 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:17:15.959 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:17:15.967 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.223 seconds (JVM running for 3.837)
+[INFO ] 18:17:18.696 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 18:17:18.698 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 18:17:18.699 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[WARN ] 18:18:15.249 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[INFO ] 18:19:12.939 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 18:19:12.948 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 18:19:16.896 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 35072 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 18:19:16.899 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 18:19:18.229 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:19:18.238 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:19:18.240 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:19:18.240 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 18:19:18.509 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 18:19:18.519 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:19:18.519 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1570 ms
+[INFO ] 18:19:18.603 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 18:19:18.979 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 18:19:18.980 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 18:19:19.509 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:19:19.539 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:19:19.548 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.375 seconds (JVM running for 3.898)
+[INFO ] 18:19:46.543 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 18:19:46.543 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 18:19:46.544 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 18:25:58.261 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 18:25:58.272 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 18:26:01.946 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 33372 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 18:26:01.949 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 18:26:03.251 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:26:03.265 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:26:03.266 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:26:03.267 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 18:26:03.526 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 18:26:03.535 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:26:03.536 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1540 ms
+[INFO ] 18:26:03.620 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 18:26:04.030 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 18:26:04.030 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 18:26:04.541 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:26:04.567 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:26:04.575 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.222 seconds (JVM running for 3.694)
+[INFO ] 18:26:06.142 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 18:26:06.143 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 18:26:06.144 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 18:30:12.002 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 18:30:12.011 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 18:30:15.805 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 20164 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 18:30:15.808 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 18:30:17.099 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:30:17.109 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:30:17.110 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:30:17.110 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 18:30:17.385 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 18:30:17.395 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:30:17.395 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1544 ms
+[INFO ] 18:30:17.478 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 18:30:17.860 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 18:30:17.860 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 18:30:18.385 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:30:18.412 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:30:18.420 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.186 seconds (JVM running for 3.69)
+[INFO ] 18:30:20.893 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 18:30:20.894 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 18:30:20.894 o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+[WARN ] 18:30:20.922 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[WARN ] 18:30:30.800 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[INFO ] 18:30:34.383 c.d.h.controller.HomeController - RequestParam : java.util.Collections$3@27bcdc66
+[INFO ] 18:31:08.966 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 18:31:08.974 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 18:31:12.623 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 12612 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 18:31:12.625 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 18:31:13.917 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:31:13.927 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:31:13.928 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:31:13.928 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 18:31:14.204 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 18:31:14.214 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:31:14.214 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1545 ms
+[INFO ] 18:31:14.297 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 18:31:14.657 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 18:31:14.657 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 18:31:15.166 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:31:15.192 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:31:15.200 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.126 seconds (JVM running for 3.613)
+[INFO ] 18:31:21.420 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 18:31:21.421 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 18:31:21.422 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 18:31:21.510 c.d.h.controller.HomeController - RequestParam : java.util.Collections$3@69065254
+[WARN ] 18:31:24.337 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[INFO ] 18:32:26.997 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 18:32:27.006 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 18:32:49.326 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 19488 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 18:32:49.328 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 18:32:50.599 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 18:32:50.613 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:32:50.614 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 18:32:50.614 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 18:32:50.875 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 18:32:50.885 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 18:32:50.885 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1516 ms
+[INFO ] 18:32:50.966 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 18:32:51.329 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 18:32:51.329 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 18:32:51.817 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 18:32:51.844 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 18:32:51.852 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.1 seconds (JVM running for 3.568)
+[INFO ] 18:32:53.674 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 18:32:53.675 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 18:32:53.676 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[WARN ] 18:33:10.917 o.s.web.servlet.PageNotFound - Request method 'POST' not supported

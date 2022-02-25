@@ -1,0 +1,3 @@
+[WARN ] 00:11:29.143 o.s.web.servlet.PageNotFound - Request method 'GET' not supported
+[INFO ] 00:48:46.275 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 00:48:46.283 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

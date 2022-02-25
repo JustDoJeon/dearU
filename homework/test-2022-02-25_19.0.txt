@@ -1,0 +1,472 @@
+[INFO ] 19:00:02.641 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:00:02.651 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:00:06.526 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 30140 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:00:06.529 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:00:07.817 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:00:07.826 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:00:07.827 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:00:07.828 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:00:08.109 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:00:08.119 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:00:08.119 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1538 ms
+[INFO ] 19:00:08.205 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:00:08.580 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:00:08.580 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:00:09.101 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:00:09.127 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:00:09.135 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.198 seconds (JVM running for 3.668)
+[INFO ] 19:00:46.089 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:00:46.090 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:00:46.091 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[WARN ] 19:00:53.398 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[INFO ] 19:01:03.595 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:01:03.604 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:01:07.335 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 16168 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:01:07.338 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:01:08.576 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:01:08.584 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:01:08.585 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:01:08.585 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:01:08.869 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:01:08.881 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:01:08.882 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1496 ms
+[INFO ] 19:01:08.976 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:01:09.336 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:01:09.337 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:01:09.836 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:01:09.866 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:01:09.874 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.089 seconds (JVM running for 3.58)
+[INFO ] 19:01:10.417 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:01:10.418 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:01:10.419 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[WARN ] 19:01:10.438 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[WARN ] 19:01:11.490 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[INFO ] 19:01:25.857 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:01:25.865 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:01:29.458 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 4948 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:01:29.462 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:01:30.743 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:01:30.752 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:01:30.754 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:01:30.754 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:01:31.022 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:01:31.032 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:01:31.033 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1525 ms
+[INFO ] 19:01:31.112 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:01:31.469 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:01:31.469 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:01:32.002 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:01:32.030 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:01:32.037 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.143 seconds (JVM running for 3.62)
+[INFO ] 19:01:53.705 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:01:53.706 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:01:53.707 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[WARN ] 19:02:02.826 o.s.web.servlet.PageNotFound - Request method 'COPY' not supported
+[INFO ] 19:04:37.959 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:04:37.968 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:04:41.648 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 8424 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:04:41.651 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:04:42.926 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:04:42.935 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:04:42.936 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:04:42.936 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:04:43.198 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:04:43.207 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:04:43.208 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1512 ms
+[INFO ] 19:04:43.288 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:04:43.675 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:04:43.675 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:04:44.201 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:04:44.228 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:04:44.237 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.17 seconds (JVM running for 3.654)
+[INFO ] 19:04:46.585 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:04:46.586 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:04:46.587 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[WARN ] 19:04:50.239 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[INFO ] 19:10:17.656 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:10:17.665 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:10:21.906 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 30824 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:10:21.909 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:10:23.149 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:10:23.164 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:10:23.165 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:10:23.165 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:10:23.430 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:10:23.440 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:10:23.441 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1492 ms
+[INFO ] 19:10:23.521 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:10:23.896 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:10:23.896 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:10:24.384 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:10:24.413 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:10:24.424 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.069 seconds (JVM running for 3.573)
+[INFO ] 19:10:46.360 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:10:46.361 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:10:46.362 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[WARN ] 19:10:46.383 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[INFO ] 19:11:35.571 c.d.h.controller.HomeController - ReqeustParameter : hs3555@naver.com
+[INFO ] 19:11:35.572 c.d.h.controller.HomeController - ResponseParmeter: com.dearU.homework.dto.MemberDTO@56f5c321
+[WARN ] 19:12:06.957 o.s.web.servlet.PageNotFound - Request method 'GET' not supported
+[INFO ] 19:12:11.015 c.d.h.controller.HomeController - ReqeustParameter : hs3555@naver.com
+[INFO ] 19:12:11.024 c.d.h.controller.HomeController - ResponseParmeter: com.dearU.homework.dto.MemberDTO@688334ce
+[INFO ] 19:18:36.176 c.d.h.controller.HomeController - ReqeustParameter : hs3555@naver.com
+[INFO ] 19:18:36.177 c.d.h.controller.HomeController - ResponseParmeter: com.dearU.homework.dto.MemberDTO@37bf903d
+[INFO ] 19:28:08.383 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:28:08.392 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:28:11.997 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 29940 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:28:12.000 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:28:13.249 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:28:13.265 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:28:13.266 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:28:13.266 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:28:13.543 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:28:13.554 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:28:13.554 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1508 ms
+[INFO ] 19:28:13.643 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:28:14.009 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:28:14.010 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:28:14.500 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:28:14.528 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:28:14.537 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.1 seconds (JVM running for 3.568)
+[INFO ] 19:28:29.975 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:28:29.976 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:28:29.977 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[WARN ] 19:28:34.899 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[INFO ] 19:33:19.475 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:33:19.484 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:33:23.136 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 21960 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:33:23.138 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:33:24.490 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:33:24.499 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:33:24.501 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:33:24.501 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:33:24.768 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:33:24.778 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:33:24.779 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1586 ms
+[INFO ] 19:33:24.866 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:33:25.248 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:33:25.248 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:33:25.756 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:33:25.782 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:33:25.790 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.244 seconds (JVM running for 3.714)
+[INFO ] 19:33:33.083 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:33:33.084 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:33:33.085 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[INFO ] 19:34:03.048 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:34:03.056 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:34:06.712 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 16828 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:34:06.716 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:34:08.028 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:34:08.043 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:34:08.044 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:34:08.044 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:34:08.319 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:34:08.329 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:34:08.329 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1558 ms
+[INFO ] 19:34:08.418 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:34:08.783 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:34:08.784 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:34:09.331 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:34:09.360 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:34:09.369 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.211 seconds (JVM running for 3.685)
+[INFO ] 19:34:13.881 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:34:13.881 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:34:13.882 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[WARN ] 19:34:39.964 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[INFO ] 19:42:00.130 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:42:00.139 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:42:03.817 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 33268 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:42:03.820 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:42:05.293 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:42:05.301 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:42:05.303 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:42:05.303 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:42:05.575 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:42:05.586 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:42:05.586 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1724 ms
+[INFO ] 19:42:05.676 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:42:06.034 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:42:06.034 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[WARN ] 19:42:06.436 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handlerExceptionResolver' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.servlet.HandlerExceptionResolver]: Factory method 'handlerExceptionResolver' threw exception; nested exception is java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [class org.springframework.web.HttpRequestMethodNotSupportedException]: {public final org.springframework.http.ResponseEntity com.dearU.homework.exception.ExceptionController.handleNotSupportedException(java.lang.Exception,org.springframework.web.context.request.WebRequest), public final org.springframework.http.ResponseEntity org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler.handleException(java.lang.Exception,org.springframework.web.context.request.WebRequest) throws java.lang.Exception}
+[INFO ] 19:42:06.437 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:42:06.447 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:42:06.451 o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[INFO ] 19:42:06.461 o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR] 19:42:06.485 o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handlerExceptionResolver' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.servlet.HandlerExceptionResolver]: Factory method 'handlerExceptionResolver' threw exception; nested exception is java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [class org.springframework.web.HttpRequestMethodNotSupportedException]: {public final org.springframework.http.ResponseEntity com.dearU.homework.exception.ExceptionController.handleNotSupportedException(java.lang.Exception,org.springframework.web.context.request.WebRequest), public final org.springframework.http.ResponseEntity org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler.handleException(java.lang.Exception,org.springframework.web.context.request.WebRequest) throws java.lang.Exception}
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:658)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:638)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1195)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:414)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.dearU.homework.HomeworkApplication.main(HomeworkApplication.java:14)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.servlet.HandlerExceptionResolver]: Factory method 'handlerExceptionResolver' threw exception; nested exception is java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [class org.springframework.web.HttpRequestMethodNotSupportedException]: {public final org.springframework.http.ResponseEntity com.dearU.homework.exception.ExceptionController.handleNotSupportedException(java.lang.Exception,org.springframework.web.context.request.WebRequest), public final org.springframework.http.ResponseEntity org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler.handleException(java.lang.Exception,org.springframework.web.context.request.WebRequest) throws java.lang.Exception}
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 19 common frames omitted
+Caused by: java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [class org.springframework.web.HttpRequestMethodNotSupportedException]: {public final org.springframework.http.ResponseEntity com.dearU.homework.exception.ExceptionController.handleNotSupportedException(java.lang.Exception,org.springframework.web.context.request.WebRequest), public final org.springframework.http.ResponseEntity org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler.handleException(java.lang.Exception,org.springframework.web.context.request.WebRequest) throws java.lang.Exception}
+	at org.springframework.web.method.annotation.ExceptionHandlerMethodResolver.addExceptionMapping(ExceptionHandlerMethodResolver.java:114)
+	at org.springframework.web.method.annotation.ExceptionHandlerMethodResolver.<init>(ExceptionHandlerMethodResolver.java:78)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.initExceptionHandlerAdviceCache(ExceptionHandlerExceptionResolver.java:291)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.afterPropertiesSet(ExceptionHandlerExceptionResolver.java:268)
+	at org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport.addDefaultHandlerExceptionResolvers(WebMvcConfigurationSupport.java:1090)
+	at org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport.handlerExceptionResolver(WebMvcConfigurationSupport.java:1032)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 20 common frames omitted
+[INFO ] 19:43:54.376 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 14896 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:43:54.380 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:43:55.676 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:43:55.686 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:43:55.687 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:43:55.687 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:43:55.944 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:43:55.954 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:43:55.955 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1515 ms
+[INFO ] 19:43:56.040 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:43:56.398 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:43:56.398 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:43:56.896 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:43:56.924 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:43:56.932 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.152 seconds (JVM running for 3.656)
+[INFO ] 19:44:19.255 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:44:19.255 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:44:19.256 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[WARN ] 19:44:19.277 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[WARN ] 19:45:26.206 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[INFO ] 19:45:27.585 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:45:27.593 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:45:30.052 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 34748 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:45:30.055 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:45:31.291 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:45:31.305 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:45:31.306 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:45:31.306 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:45:31.567 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:45:31.577 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:45:31.577 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1481 ms
+[INFO ] 19:45:31.664 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:45:32.027 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:45:32.027 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:45:32.510 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:45:32.539 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:45:32.547 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.05 seconds (JVM running for 3.571)
+[INFO ] 19:46:12.338 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:46:12.346 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:46:15.847 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 13596 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:46:15.850 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:46:17.177 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:46:17.187 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:46:17.188 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:46:17.188 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:46:17.484 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:46:17.495 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:46:17.495 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1603 ms
+[INFO ] 19:46:17.588 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:46:17.975 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:46:17.975 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[WARN ] 19:46:18.401 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handlerExceptionResolver' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.servlet.HandlerExceptionResolver]: Factory method 'handlerExceptionResolver' threw exception; nested exception is java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [class org.springframework.web.HttpRequestMethodNotSupportedException]: {public final org.springframework.http.ResponseEntity com.dearU.homework.exception.ExceptionController.handleNotSupportedException(java.lang.Exception,org.springframework.web.context.request.WebRequest), public final org.springframework.http.ResponseEntity org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler.handleException(java.lang.Exception,org.springframework.web.context.request.WebRequest) throws java.lang.Exception}
+[INFO ] 19:46:18.402 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:46:18.413 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:46:18.415 o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[INFO ] 19:46:18.424 o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR] 19:46:18.446 o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handlerExceptionResolver' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.servlet.HandlerExceptionResolver]: Factory method 'handlerExceptionResolver' threw exception; nested exception is java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [class org.springframework.web.HttpRequestMethodNotSupportedException]: {public final org.springframework.http.ResponseEntity com.dearU.homework.exception.ExceptionController.handleNotSupportedException(java.lang.Exception,org.springframework.web.context.request.WebRequest), public final org.springframework.http.ResponseEntity org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler.handleException(java.lang.Exception,org.springframework.web.context.request.WebRequest) throws java.lang.Exception}
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:658)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:638)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1195)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:414)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.dearU.homework.HomeworkApplication.main(HomeworkApplication.java:14)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.servlet.HandlerExceptionResolver]: Factory method 'handlerExceptionResolver' threw exception; nested exception is java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [class org.springframework.web.HttpRequestMethodNotSupportedException]: {public final org.springframework.http.ResponseEntity com.dearU.homework.exception.ExceptionController.handleNotSupportedException(java.lang.Exception,org.springframework.web.context.request.WebRequest), public final org.springframework.http.ResponseEntity org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler.handleException(java.lang.Exception,org.springframework.web.context.request.WebRequest) throws java.lang.Exception}
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 19 common frames omitted
+Caused by: java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [class org.springframework.web.HttpRequestMethodNotSupportedException]: {public final org.springframework.http.ResponseEntity com.dearU.homework.exception.ExceptionController.handleNotSupportedException(java.lang.Exception,org.springframework.web.context.request.WebRequest), public final org.springframework.http.ResponseEntity org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler.handleException(java.lang.Exception,org.springframework.web.context.request.WebRequest) throws java.lang.Exception}
+	at org.springframework.web.method.annotation.ExceptionHandlerMethodResolver.addExceptionMapping(ExceptionHandlerMethodResolver.java:114)
+	at org.springframework.web.method.annotation.ExceptionHandlerMethodResolver.<init>(ExceptionHandlerMethodResolver.java:78)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.initExceptionHandlerAdviceCache(ExceptionHandlerExceptionResolver.java:291)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.afterPropertiesSet(ExceptionHandlerExceptionResolver.java:268)
+	at org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport.addDefaultHandlerExceptionResolvers(WebMvcConfigurationSupport.java:1090)
+	at org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport.handlerExceptionResolver(WebMvcConfigurationSupport.java:1032)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 20 common frames omitted
+[INFO ] 19:47:03.610 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 4192 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:47:03.614 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:47:04.881 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:47:04.890 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:47:04.891 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:47:04.892 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:47:05.157 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:47:05.168 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:47:05.168 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1508 ms
+[INFO ] 19:47:05.254 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:47:05.619 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:47:05.619 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:47:06.113 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:47:06.141 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:47:06.152 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.116 seconds (JVM running for 3.589)
+[INFO ] 19:47:18.027 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:47:18.028 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:47:18.030 o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+[WARN ] 19:47:20.713 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[WARN ] 19:47:25.780 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[INFO ] 19:51:16.362 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:51:16.370 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:51:19.981 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 936 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:51:19.984 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:51:21.297 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:51:21.311 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:51:21.312 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:51:21.312 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:51:21.572 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:51:21.583 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:51:21.584 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1556 ms
+[INFO ] 19:51:21.685 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:51:22.036 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:51:22.036 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:51:22.518 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:51:22.545 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:51:22.553 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.178 seconds (JVM running for 3.645)
+[INFO ] 19:51:34.570 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:51:34.581 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:51:38.267 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 13144 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:51:38.270 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:51:39.528 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:51:39.542 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:51:39.542 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:51:39.542 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:51:39.799 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:51:39.810 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:51:39.810 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1497 ms
+[INFO ] 19:51:39.890 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:51:40.254 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:51:40.254 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:51:40.738 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:51:40.765 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:51:40.776 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.074 seconds (JVM running for 3.563)
+[INFO ] 19:52:06.052 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:52:06.052 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:52:06.053 o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+[WARN ] 19:52:06.073 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[INFO ] 19:52:49.575 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:52:49.584 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:52:53.139 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 34048 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:52:53.142 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:52:54.424 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:52:54.433 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:52:54.434 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:52:54.434 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:52:54.695 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:52:54.706 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:52:54.706 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1516 ms
+[INFO ] 19:52:54.783 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:52:55.127 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:52:55.128 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 19:52:55.627 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:52:55.656 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 19:52:55.665 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.092 seconds (JVM running for 3.566)
+[INFO ] 19:52:57.862 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+[INFO ] 19:52:57.863 o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+[INFO ] 19:52:57.864 o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+[WARN ] 19:53:02.159 o.s.web.servlet.PageNotFound - Request method 'POST' not supported
+[WARN ] 19:53:11.221 o.s.web.servlet.PageNotFound - Request method 'DELETE' not supported
+[INFO ] 19:56:17.584 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:56:17.592 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:56:21.745 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 9756 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 19:56:21.748 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 19:56:22.975 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 19:56:22.984 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 19:56:22.985 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 19:56:22.985 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 19:56:23.264 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 19:56:23.278 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 19:56:23.279 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1490 ms
+[INFO ] 19:56:23.368 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 19:56:23.720 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 19:56:23.720 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[WARN ] 19:56:24.129 o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handlerExceptionResolver' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.servlet.HandlerExceptionResolver]: Factory method 'handlerExceptionResolver' threw exception; nested exception is java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [class org.springframework.web.HttpRequestMethodNotSupportedException]: {public final org.springframework.http.ResponseEntity com.dearU.homework.exception.ExceptionController.handleNotSupportedException(java.lang.Exception,org.springframework.web.context.request.WebRequest), public final org.springframework.http.ResponseEntity org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler.handleException(java.lang.Exception,org.springframework.web.context.request.WebRequest) throws java.lang.Exception}
+[INFO ] 19:56:24.130 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 19:56:24.140 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+[INFO ] 19:56:24.142 o.a.catalina.core.StandardService - Stopping service [Tomcat]
+[INFO ] 19:56:24.151 o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[ERROR] 19:56:24.170 o.s.boot.SpringApplication - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'handlerExceptionResolver' defined in class path resource [org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration$EnableWebMvcConfiguration.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.servlet.HandlerExceptionResolver]: Factory method 'handlerExceptionResolver' threw exception; nested exception is java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [class org.springframework.web.HttpRequestMethodNotSupportedException]: {public final org.springframework.http.ResponseEntity com.dearU.homework.exception.ExceptionController.handleNotSupportedException(java.lang.Exception,org.springframework.web.context.request.WebRequest), public final org.springframework.http.ResponseEntity org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler.handleException(java.lang.Exception,org.springframework.web.context.request.WebRequest) throws java.lang.Exception}
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:658)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:638)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1352)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1195)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:582)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:953)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:732)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:414)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:302)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1292)
+	at com.dearU.homework.HomeworkApplication.main(HomeworkApplication.java:14)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.springframework.web.servlet.HandlerExceptionResolver]: Factory method 'handlerExceptionResolver' threw exception; nested exception is java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [class org.springframework.web.HttpRequestMethodNotSupportedException]: {public final org.springframework.http.ResponseEntity com.dearU.homework.exception.ExceptionController.handleNotSupportedException(java.lang.Exception,org.springframework.web.context.request.WebRequest), public final org.springframework.http.ResponseEntity org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler.handleException(java.lang.Exception,org.springframework.web.context.request.WebRequest) throws java.lang.Exception}
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:185)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:653)
+	... 19 common frames omitted
+Caused by: java.lang.IllegalStateException: Ambiguous @ExceptionHandler method mapped for [class org.springframework.web.HttpRequestMethodNotSupportedException]: {public final org.springframework.http.ResponseEntity com.dearU.homework.exception.ExceptionController.handleNotSupportedException(java.lang.Exception,org.springframework.web.context.request.WebRequest), public final org.springframework.http.ResponseEntity org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler.handleException(java.lang.Exception,org.springframework.web.context.request.WebRequest) throws java.lang.Exception}
+	at org.springframework.web.method.annotation.ExceptionHandlerMethodResolver.addExceptionMapping(ExceptionHandlerMethodResolver.java:114)
+	at org.springframework.web.method.annotation.ExceptionHandlerMethodResolver.<init>(ExceptionHandlerMethodResolver.java:78)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.initExceptionHandlerAdviceCache(ExceptionHandlerExceptionResolver.java:291)
+	at org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver.afterPropertiesSet(ExceptionHandlerExceptionResolver.java:268)
+	at org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport.addDefaultHandlerExceptionResolvers(WebMvcConfigurationSupport.java:1090)
+	at org.springframework.web.servlet.config.annotation.WebMvcConfigurationSupport.handlerExceptionResolver(WebMvcConfigurationSupport.java:1032)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	... 20 common frames omitted

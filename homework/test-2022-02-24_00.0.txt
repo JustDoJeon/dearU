@@ -1,0 +1,17 @@
+[INFO ] 00:37:39.721 c.dearU.homework.HomeworkApplication - Starting HomeworkApplication using Java 11.0.13 on DESKTOP-K6AU36B with PID 18696 (C:\Users\wjseh\Downloads\homework\out\production\classes started by wjseh in C:\Users\wjseh\Downloads\homework)
+[INFO ] 00:37:39.724 c.dearU.homework.HomeworkApplication - No active profile set, falling back to default profiles: default
+[INFO ] 00:37:41.092 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+[INFO ] 00:37:41.102 o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+[INFO ] 00:37:41.103 o.a.catalina.core.StandardService - Starting service [Tomcat]
+[INFO ] 00:37:41.105 o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.56]
+[INFO ] 00:37:41.341 org.apache.jasper.servlet.TldScanner - At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+[INFO ] 00:37:41.351 o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+[INFO ] 00:37:41.351 o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1565 ms
+[INFO ] 00:37:41.434 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+[INFO ] 00:37:41.831 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+[INFO ] 00:37:41.831 com.dearU.homework.MyBatisConfig - dataSource : HikariDataSource (HikariPool-1)
+[INFO ] 00:37:42.366 o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+[INFO ] 00:37:42.393 o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+[INFO ] 00:37:42.404 c.dearU.homework.HomeworkApplication - Started HomeworkApplication in 3.344 seconds (JVM running for 3.852)
+[INFO ] 00:55:09.457 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+[INFO ] 00:55:09.467 com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.dearU.homework.mapper.MemberMapper">
+    <select id="listAll" resultType="com.dearU.homework.dto.MemberDTO">
+        SELECT * FROM member;
+    </select>
+
+    <insert id="insertMember" parameterType="com.dearU.homework.dto.MemberDTO">
+        insert into member (email, nickname, gender, birthdate) values(
+        #{email}, #{nickname}, #{gender}, #{birthdate}
+        );
+    </insert>
+
+    <select id="findByEmail" resultType="com.dearU.homework.dto.MemberDTO">
+        select * from member where email = #{email};
+    </select>
+
+    <delete id="deleteByEmail">
+        delete from member where email = #{email};
+    </delete>
+
+    <update id="updateMember" parameterType="com.dearU.homework.dto.MemberDTO">
+        update member set nickname = #{nickname} , gender = #{gender} , birthdate = #{birthdate}
+        where email = #{email}
+    </update>
+
+
+</mapper>
